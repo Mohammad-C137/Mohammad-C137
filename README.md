@@ -78,16 +78,7 @@ I enjoy taking a compact idea, understanding how it works underneath, and turnin
 ## GitHub snapshot
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mohammad-C137&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&ring_color=8B5CF6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mohammad-C137&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=0891B2&text_color=334155&ring_color=7C3AED" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohammad-C137&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=22D3EE&text_color=64748B&ring_color=8B5CF6" alt="Mohammad's GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-C137&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=CBD5E1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-C137&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=334155" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-C137&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=64748B" alt="Most used languages" />
-  </picture>
+  <img width="830" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammad-C137&theme=tokyonight" alt="Mohammad's GitHub contribution summary" />
 </div>
 
 <br />
