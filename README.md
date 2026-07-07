@@ -14,14 +14,14 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+practical+tools+with+Python;Exploring+CLI+utilities+and+desktop+apps;Learning+deeply.+Building+cleanly.+Shipping+what+works." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+practical+tools+with+Python;Exploring+AI%2C+machine+learning+%26+deep+learning;Learning+deeply.+Building+cleanly.+Shipping+what+works." alt="Typing introduction" />
 </div>
 
 ## `> whoami`
 
 ```python
 class Mohammad:
-    focus = ("Python", "CLI tools", "desktop applications")
+    focus = ("Python", "AI & machine learning", "CLI tools", "desktop apps")
     approach = "turn ideas into small, useful, well-structured software"
     current_goal = "keep learning by building and shipping"
 
@@ -29,7 +29,17 @@ class Mohammad:
         return "Welcome to my corner of GitHub."
 ```
 
-I enjoy taking a compact idea, understanding how it works underneath, and turning it into software people can actually run. My current projects range from recreating classic command-line tools to building exact-arithmetic libraries and polished Windows applications.
+I enjoy taking a compact idea, understanding how it works underneath, and turning it into software people can actually run. My current projects range from recreating classic command-line tools to building exact-arithmetic libraries and polished Windows applications. I am especially curious about how intelligent systems learn, reason, and turn data into useful decisions.
+
+## What I'm exploring
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-22164A?style=for-the-badge&logoColor=white" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-172554?style=for-the-badge&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-312E81?style=for-the-badge&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-164E63?style=for-the-badge&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Data%20Science-134E4A?style=for-the-badge&logoColor=white" alt="Data Science" />
+</div>
 
 ## Tools I work with
 
