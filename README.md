@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mohammad-C137/Mohammad-C137/main/assets/header.svg" width="100%" alt="Seyedmohammad Mousavi Hashemi — Python developer and tool builder" />
+  <img src="https://raw.githubusercontent.com/Mohammad-C137/Mohammad-C137/main/assets/header.svg" width="830" alt="Seyedmohammad Mousavi Hashemi — Python developer and tool builder" />
 </div>
 
 <div align="center">
