@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="231" viewBox="0 0 1200 330" role="img" aria-labelledby="title description">
   <title id="title">Seyedmohammad Mousavi Hashemi</title>
-  <desc id="description">Python developer building command-line tools and desktop applications</desc>
+  <desc id="description">Python developer interested in artificial intelligence, machine learning, and practical software</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#07111f"/>
@@ -38,7 +38,7 @@
     Seyedmohammad Mousavi Hashemi
   </text>
   <text x="68" y="249" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="23" letter-spacing="0.4">
-    Python tools  /  desktop applications  /  curious engineering
+    Python tools  /  AI &amp; machine learning  /  curious engineering
   </text>
   <rect x="68" y="276" width="445" height="5" rx="2.5" fill="url(#accent)"/>
 
